@@ -46,11 +46,14 @@ cd movie-library-app
 npm install
 ```
 
-3. Create a `.env` file in the project root:
+3.Environment Variables
 
-```env
-REACT_APP_TMDB_API_KEY=YOUR_TMDB_API_KEY
-```
+This project requires an API key from TMDB. 
+
+Sign up at https://www.themoviedb.org/ and get an API key.
+Create a `.env` file in the root of the project:
+   
+REACT_APP_TMDB_API_KEY=YOUR_TMDB_API_KEY_HERE
 
 4. Start the development server:
 
