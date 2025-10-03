@@ -72,7 +72,7 @@ Currently, no automated test cases are included. You can add tests using Jest an
 npm test
 ```
 
----
+
 
 ## Assumptions and Design Choices
 
